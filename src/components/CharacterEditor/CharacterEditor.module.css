@@ -2,6 +2,7 @@
   padding-top: 128px;
   padding-bottom: 64px;
   max-width: 1024px;
+  position: relative;
 }
 
 .maxWidthWrapper {
@@ -33,6 +34,7 @@
   width: 500px;
   min-height: 500px;
 }
+
 
 .controlColumn {
   max-width: calc(1024px * 0.5);
